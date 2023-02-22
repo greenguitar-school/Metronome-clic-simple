@@ -1,5 +1,5 @@
 # Métronome
 
 Clic simple
-Tempo = 50
 
+Tempo = 50
