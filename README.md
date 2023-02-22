@@ -1,6 +1,6 @@
-# :guitar: TITLE
+# :guitar: Métronome
 
-Description du tutoriel...
+Clic simple, sans métrique...
 
 Bonne musique et bonne guitare ! :musical_score: :headphones: :musical_note: :notes:
 
