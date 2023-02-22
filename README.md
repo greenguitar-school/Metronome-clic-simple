@@ -2,6 +2,8 @@
 
 Clic simple, sans métrique...
 
+[Playlist YouTube](https://www.youtube.com/playlist?list=PLDjo2z5YktqrV76DkR3uuJ4lVNFdNFbBb)
+
 Bonne musique et bonne guitare ! :musical_score: :headphones: :musical_note: :notes:
 
 
